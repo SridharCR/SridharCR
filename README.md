@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Introduction
 - 🔭 I’m working at Gain Credit LLC as a software engineer.
 - 📚 I completed B.Tech in Information Technology at Velammal College of Engg and Tech under Anna University.
