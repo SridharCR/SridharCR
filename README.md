@@ -1,5 +1,5 @@
 ## Introduction
-- 🔭 I’m working at Gain Credit LLC as a software engineer.
+- 🔭 I’m working at Saama AI Research as a software engineer.
 - 📚 I completed B.Tech in Information Technology at Velammal College of Engg and Tech under Anna University.
 - 💻 I'm interested in web/android applications, data science and artificial intelligence.
 
